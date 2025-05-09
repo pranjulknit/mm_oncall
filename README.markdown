@@ -129,7 +129,7 @@ The bot supports the following commands, accessible via Telegram:
 
 2. **User Management**:
    - Account 1:
-     - `/setadmin 123456789 +918181922178 Suresh Admin`
-     - `/setlead 111222333 +916392410389 Jane Doe linux`
-     - `/adduser 111222333 +916392410389 Jane Doe linux`
+     - `/setadmin 123456789 +9181819223474237 Suresh Admin`
+     - `/setlead 111222333 +91340385034508 Jane Doe linux`
+     - `/adduser 111222333 +9163450803485004358 Jane Doe linux`
      - `/getroles
